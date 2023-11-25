@@ -1,0 +1,2646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2023-03-08T14:05:14.0591725-08:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>01 Chassis\Manufacturing\01-008 Chassis Corner Bracket.DXF</FileName>
+      <SHA1>D98D67A79A8B73F4F463F32C3C58A415EE4C1692</SHA1>
+      <FileSize>31796</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0393551+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\Manufacturing\Chassis Corner Bracket.pdf</FileName>
+      <SHA1>60BD2BB6E1C00646291BEFCCF12AAFE48069E8C4</SHA1>
+      <FileSize>55397</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0433444+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\Manufacturing\Chassis Corner Bracket.SLDDRW</FileName>
+      <SHA1>50FB600361ACB4B1F0121B08E4BF51043E877E8F</SHA1>
+      <FileSize>155589</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0413498+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\Manufacturing\Chassis Cross Beam.pdf</FileName>
+      <SHA1>D1774E6A84C0A92009E4D96731D757F98DC27806</SHA1>
+      <FileSize>57808</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0483307+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\Manufacturing\Chassis Cross Beam.SLDDRW</FileName>
+      <SHA1>D4A09AF41074975EC5F3B00856017150708CC746</SHA1>
+      <FileSize>243360</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0463361+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\Manufacturing\Chassis Fr &amp; Bk Rails.pdf</FileName>
+      <SHA1>875A5CF91EA06DAD43B0FED1D110C6B101A14170</SHA1>
+      <FileSize>56802</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0533180+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\Manufacturing\Chassis Fr &amp; Bk Rails.SLDDRW</FileName>
+      <SHA1>0285A5CEA5921A02C01F660C4552FF2198F83ED1</SHA1>
+      <FileSize>224773</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0503260+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\Manufacturing\Chassis Side Rails.pdf</FileName>
+      <SHA1>CC7AFBB04F8AD9ABD4CD8B360FEEBCB798DEA617</SHA1>
+      <FileSize>67044</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0583046+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\Manufacturing\Chassis Side Rails.SLDDRW</FileName>
+      <SHA1>68FF6399B3F0D914CCC183CBA7E4F21A9681E951</SHA1>
+      <FileSize>334629</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0553130+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\Manufacturing\Chassis Support Floor.pdf</FileName>
+      <SHA1>0D7A725CD4185FD946FA5085903D02913292AF5E</SHA1>
+      <FileSize>62334</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0632909+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\Manufacturing\Chassis Support Floor.SLDDRW</FileName>
+      <SHA1>B1829FB008C141A261DBB6750C94F4FBFEF46EB0</SHA1>
+      <FileSize>146580</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0602995+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\0250-20_3L_SHCS_91251A554.step-1.SLDPRT</FileName>
+      <SHA1>F6A7CB16661773464EE024086AC560C99C730412</SHA1>
+      <FileSize>393737</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0743203+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\10-32 BHCS - No Thread_WCP-0251 - 0.250.step-1.SLDPRT</FileName>
+      <SHA1>ECCC7665255FF65C65C7326512CB87968C7D79CD</SHA1>
+      <FileSize>118785</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0763152+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\10-32 BHCS - No Thread_WCP-0253 - 0.500.step-1.SLDPRT</FileName>
+      <SHA1>98D0214555835D14559E85E23E4B4D97C524593C</SHA1>
+      <FileSize>105974</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0783096+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\10-32 BHCS - No Thread_WCP-0256 - 1.250.step-1.SLDPRT</FileName>
+      <SHA1>561F2BCD0B3CCA73F2BDD2C9B78D3F666F176403</SHA1>
+      <FileSize>88441</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0812724+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\10-32 BHCS - No Thread_WCP-0258 - 1.750.step-1.SLDPRT</FileName>
+      <SHA1>4B36603E5BDF5D6943B02A8F1CAF1D05744EF77E</SHA1>
+      <FileSize>84018</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0832671+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\10-32 BHCS - No Thread_WCP-0261 - 2.500.step-1.SLDPRT</FileName>
+      <SHA1>03CBD0F5B4D3822B37AB98279F1A5DA3EC501D83</SHA1>
+      <FileSize>78120</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0862595+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\10-32 SHCS - No Thread_WCP-0265 - 0.375.step-1.SLDPRT</FileName>
+      <SHA1>645248AB5960B192A8D0ED57EED175B294BF6ED2</SHA1>
+      <FileSize>93922</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0882539+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\217-2731_0_500_flanged_bearing.step-1.SLDPRT</FileName>
+      <SHA1>D88898B578704B463362B83ABD90C47BC6C12455</SHA1>
+      <FileSize>89815</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0902483+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\217-2733_0_375_flanged_bearing.step-1.SLDPRT</FileName>
+      <SHA1>2536B4C7DDC38128273CC8D538089A715795F720</SHA1>
+      <FileSize>94063</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0932404+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\217-2735_0_375_flanged_hex_bearing.step-1.SLDPRT</FileName>
+      <SHA1>601ED720C71515E929DC6B9968D89083AE255B61</SHA1>
+      <FileSize>92013</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0952351+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\217-3109_0_500_radial_bearing.step-1.SLDPRT</FileName>
+      <SHA1>0953201905B288B9354194DA4A6BAD58C3349C0A</SHA1>
+      <FileSize>379304</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0972309+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\217-3489_0_250_radial_bearing.step-1.SLDPRT</FileName>
+      <SHA1>E0A4084C7B2D1622EADFA18BE4658FEE7727DE80</SHA1>
+      <FileSize>130237</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0998104+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\217-4006_0_500_flanged_thunderhex_bearing.step-1.SLDPRT</FileName>
+      <SHA1>D891C6C182E4B3E88EE486BE7F463CD921B6E09D</SHA1>
+      <FileSize>162671</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1018084+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\217-5464_24T_500_hex_steel.step-1.SLDPRT</FileName>
+      <SHA1>B09C3D32EAB5954E1935E68FBB17EFC5078E0414</SHA1>
+      <FileSize>249828</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1038427+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\217-5829_0375_flanged_thunderhex_bearing.step-1.SLDPRT</FileName>
+      <SHA1>72B71A3190AA18DAF2BDB91AF81619A3C26A6472</SHA1>
+      <FileSize>133550</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1058371+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\217-6515_Falcon_500_Default_As Machined_.step-1.SLDPRT</FileName>
+      <SHA1>911307BF2C7B3F56ADBA5EF28949E1B7F34E5903</SHA1>
+      <FileSize>976763</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1088300+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\217-6915_Falcon_8T.step-1.SLDPRT</FileName>
+      <SHA1>0540C6575B5BE70AF481B6A76D77C990DCF03EDA</SHA1>
+      <FileSize>217979</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1108238+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\217-6919_Falcon_12T.step-1.SLDPRT</FileName>
+      <SHA1>2B143B90A7E31929137ACC143610E8CE89EC358F</SHA1>
+      <FileSize>246888</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1128184+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\8-32 BHCS_0.500.step-1.SLDPRT</FileName>
+      <SHA1>F96F713ADC43F68600B27DA6AD4F07CF5BEC5C29</SHA1>
+      <FileSize>711580</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1158105+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\CANcoder.step-1.SLDPRT</FileName>
+      <SHA1>BBF50FBB4DFEBB9D2B23A64D28795F054E0D0EA1</SHA1>
+      <FileSize>1609875</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1188035+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\Encoder Belt.step-1.SLDPRT</FileName>
+      <SHA1>5AB9547C6440259AB91DD966304F78195F86295E</SHA1>
+      <FileSize>66294</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1207970+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\Falcon_Motor_Spacer_0625.step-1.SLDPRT</FileName>
+      <SHA1>B326584C3D11BE3291F6F3182D58397225054000</SHA1>
+      <FileSize>63951</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1237890+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\NEO Motor (REV-21-1650)-1.SLDPRT</FileName>
+      <SHA1>727887EAA681C95D8D319C550E3DB54A7240F911</SHA1>
+      <FileSize>2520991</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1268097+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\NFS-0018_SHCS_#10-32_1_750L_Default_As Machined_.step-1.SLDPRT</FileName>
+      <SHA1>D5C6B87809AF44F9B7CB63EE8EADF6CD51A73C64</SHA1>
+      <FileSize>459214</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1297061+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\NFS-0024_250-20_thin_locknut_90566A029.step-1.SLDPRT</FileName>
+      <SHA1>39F1445462FD4EDDACCC3A6DB4AAA7853526EC27</SHA1>
+      <FileSize>228776</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1317331+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\NFS-0059_SHCS_#4-40_0_875L_91251A113.step-1.SLDPRT</FileName>
+      <SHA1>FFB7F39B4E501F6EB696046FF0EFE4643A769869</SHA1>
+      <FileSize>601893</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1337276+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0041_0_250_radial_bearing.step-1.SLDPRT</FileName>
+      <SHA1>EA1DC7999711C5B910ECCB483CAA45F4AA3C1613</SHA1>
+      <FileSize>99188</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1357223+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0042_0_250_flanged_bearing.step-1.SLDPRT</FileName>
+      <SHA1>174D3EC906AC0C6816AC29C3EE847449A16FA927</SHA1>
+      <FileSize>102777</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1388047+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0156 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>925A6BA836B59AF5C14D7CD7FF5A1AF3A0A09858</SHA1>
+      <FileSize>66921</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1407089+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0178 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>78AA4071457E9C8CA3A775AA06FD903B69D1D4FD</SHA1>
+      <FileSize>434000</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1427320+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0202 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>33B33F101FACBAA8F4EEC4EC8541AB0AD61F4853</SHA1>
+      <FileSize>71470</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1446983+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0226 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>4124F28AB4092E0096771969A74ED51499ADA7BF</SHA1>
+      <FileSize>68660</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1476915+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0229 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>48177B3B61F61B7689921A934E6E8194A640F22D</SHA1>
+      <FileSize>85853</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1496849+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0233 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>9063DD01AABE72B1A018BD2095CA04B94E74DF77</SHA1>
+      <FileSize>986515</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1516796+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0276 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>B4A1CAFFCCA03BBDFDFFB5DB9B9B15FA31E2B680</SHA1>
+      <FileSize>554511</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1536742+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0307 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>761A1EF43A92EC416C4F2CE0FCE1C9184353CF74</SHA1>
+      <FileSize>68622</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1568116+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0357 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>94B37C3D29A47DF44931FB8EDF75C4A9F75F957F</SHA1>
+      <FileSize>1377430</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1591910+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0360-001 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>8B5189455722A86179CBF286941F1682DF66C2BB</SHA1>
+      <FileSize>294830</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1622129+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0361 - Swerve X (Falcon Down, Neo Down) (WCP-0363).SLDASM</FileName>
+      <SHA1>16D625D92B1AB6E9EA989DC132386A89FE59F449</SHA1>
+      <FileSize>5251819</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1662279+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0361 - Swerve X (Falcon Down, Neo Up) (WCP-0363).SLDASM</FileName>
+      <SHA1>810E562173C3D576C4CB2F4291D689958AC66E51</SHA1>
+      <FileSize>10303388</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1731549+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0361 - Swerve X (Neo Down, Falcon Up) (WCP-0363).SLDASM</FileName>
+      <SHA1>4B3830AB135AFD762855B77B42B6C7F22167ED7A</SHA1>
+      <FileSize>11389636</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1801361+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0361 - Swerve X (Tube Mount, Flipped Gears Below) (WCP-0363).step-1.SLDASM</FileName>
+      <SHA1>572029A583E6BDB78B5B6ED850B22D96FE97CCD4</SHA1>
+      <FileSize>4237527</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1841872+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0361-001 Rev2.step-1.SLDPRT</FileName>
+      <SHA1>2DBFBB7F55C284F910D310C129E36639ECA66144</SHA1>
+      <FileSize>551421</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1861535+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0361-002 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>38965D8152EE4F202461B84095B8C41491EA6870</SHA1>
+      <FileSize>187421</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1891464+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0361-004 Rev1_Default_As Machined_.step-1.SLDPRT</FileName>
+      <SHA1>AFC997D72F0717AADF618CE453F88D1FE0D3DB1E</SHA1>
+      <FileSize>99285</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1911403+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0361-005 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>80D7483C987E51068D04D016AAA79062D3557046</SHA1>
+      <FileSize>178529</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1931348+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0364 Rev1 - WCP X Wheel Module.step-1.SLDASM</FileName>
+      <SHA1>0E23ADCB53163326DA07A1604EBD36C383B4E3E7</SHA1>
+      <FileSize>3029668</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1961269+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0364-001 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>C1C8DD9C1D888B18B39FB249C334C9D3724A5643</SHA1>
+      <FileSize>700171</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.1991197+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0364-002 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>9B6DE3FE6DCFCE25FBE343D8EE4940DA0C7B1AAB</SHA1>
+      <FileSize>116049</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2021351+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0364-003 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>A6D9BEF829149432B99DC832988D6A1008C01259</SHA1>
+      <FileSize>210485</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2041055+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0364-004 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>676E1E86FCEEADB1CD927D7EC5EBF6EEF36750EB</SHA1>
+      <FileSize>109909</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2061002+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0364-005 Rev2.step-1.SLDPRT</FileName>
+      <SHA1>74A4CC35D660C12EF4214BA31EF5589A86850844</SHA1>
+      <FileSize>101827</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2090542+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0364-006 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>23560AFFC755C2C201780B859359F965940B9122</SHA1>
+      <FileSize>121801</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2111106+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0364-008 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>6598196B69D1546175D8DB98B94F473326506B5C</SHA1>
+      <FileSize>82677</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2131392+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0365 Rev2.step-1.SLDPRT</FileName>
+      <SHA1>9589ED1C3F94F8022C9AE35BF1991C6BDC5FF414</SHA1>
+      <FileSize>226415</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2151319+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0366 Rev1_Default_As Machined_.step-1.SLDPRT</FileName>
+      <SHA1>B931C9A416547AC878881D5E8B45D1B23597B2DB</SHA1>
+      <FileSize>145431</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2181248+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0367-001 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>8F01FB69A89AAE8B50869A3CFC5BCF08F3CE8BF2</SHA1>
+      <FileSize>67964</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2201187+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0367-002 Rev3.step-1.SLDPRT</FileName>
+      <SHA1>1D9837B485DA9C8C2446539D4244368BE04A1CAF</SHA1>
+      <FileSize>304799</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2221132+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0367-003 Rev2.step-1.SLDPRT</FileName>
+      <SHA1>CC6567EF8395372E80688854ECCEAF6F6921A16E</SHA1>
+      <FileSize>265558</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2241079+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0367-004 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>B6F976AB70DAB83F283103EC5BCF4FB2DDE414FE</SHA1>
+      <FileSize>57036</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2271008+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0367-006 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>0BD573B2F9D1FCD7089EAF8712AFBECEFCE205CC</SHA1>
+      <FileSize>70327</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2291214+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0367-010 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>518AEBEF7962DDA531B9296EBF0DE226D38BF467</SHA1>
+      <FileSize>87329</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2311791+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0367-012 Rev1_30 Left.step-1.SLDPRT</FileName>
+      <SHA1>97884E609AAC43664EAF8E1AEEF6F54CC5CEA8E1</SHA1>
+      <FileSize>143214</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2332270+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0387 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>B1015CA3AC991543DE0B219CE1F92745072D35F6</SHA1>
+      <FileSize>69475</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2362200+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0434 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>592198671FE47929AA53FC805E264DA45DADE7AA</SHA1>
+      <FileSize>248834</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2392122+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0538 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>7757E2451C90EB61F4AB5F3DD9B9CB05AF473CE1</SHA1>
+      <FileSize>260925</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2412057+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0540 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>03EC005FCA108301866C1345FB632653E53CFBDB</SHA1>
+      <FileSize>341359</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2432004+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Swerve X\WCP-0541 Rev1.step-1.SLDPRT</FileName>
+      <SHA1>2075BCD678376868112F0275942277FEA593E104</SHA1>
+      <FileSize>428183</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.2462208+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\1 x 2 x 0.100 Pre-Drilled VersaFrame Aluminum Tube Stock (59) (217-3453).SLDPRT</FileName>
+      <SHA1>554589FD0C8595F4BB56085F107D302D2378729D</SHA1>
+      <FileSize>2272875</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0662833+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\1in Square Aluminum Tube 6546K536.SLDPRT</FileName>
+      <SHA1>ACF7EE4A5132D90548D9CBDDAC87A41530D78079</SHA1>
+      <FileSize>66344</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0682783+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\Churro (am-churo 500).SLDPRT</FileName>
+      <SHA1>3BC71A95829697FF76BAA9ABB5FE7CE0D83F38DB</SHA1>
+      <FileSize>106345</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:40.5663115+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\NEO Motor (REV-21-1650)-1.SLDPRT</FileName>
+      <SHA1>2258F34096C890961A2ED8D0E091389F23B122F2</SHA1>
+      <FileSize>2516860</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0712978+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\NEO Motor (REV-21-1650).SLDPRT</FileName>
+      <SHA1>FA191C7B2C36C31C6CDA6A9F96EA562B3854631F</SHA1>
+      <FileSize>2614543</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:40.5693698+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\OTS\WCP-0361 - Swerve X (Tube Mount, Flipped Gears Below) (WCP-0363).SLDASM</FileName>
+      <SHA1>8B9030B5761FEB1CC971DBCB6212402FB599B0D7</SHA1>
+      <FileSize>39353945</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.4484476+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\01-000 Chassis.SLDASM</FileName>
+      <SHA1>C91110921120CEF5692405A6A621556CBDAE0CE7</SHA1>
+      <FileSize>37502138</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:13.7899974+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\01-001 Left Rail.SLDPRT</FileName>
+      <SHA1>224C0426473F17A794FEB82F8BDEA6E4B2F0DF26</SHA1>
+      <FileSize>1407045</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:13.8196783+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\01-002 Right Rail.SLDPRT</FileName>
+      <SHA1>F86DD45C5C36E4ECFCCB171D24862414B3DFC438</SHA1>
+      <FileSize>1432850</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:13.8421587+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\01-003 Front Rail.SLDPRT</FileName>
+      <SHA1>1A3BCFCDD366D6CFBD3C98C51556CF5DEB7AC8C2</SHA1>
+      <FileSize>1263204</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:13.8491394+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\01-004 Back Rail.SLDPRT</FileName>
+      <SHA1>125B598CCA8B1D98876733A4AD9562E79F189928</SHA1>
+      <FileSize>1261982</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:13.8561210+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\01-005 Support Floor.SLDPRT</FileName>
+      <SHA1>4CFD967BB98DD216FDDE40BB9CBC3805AF3DD745</SHA1>
+      <FileSize>121690</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0233979+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\01-006 Foam Tape.SLDPRT</FileName>
+      <SHA1>B7AF0930D0EE1CB49E9BAD8AC717E39D6E69BD0A</SHA1>
+      <FileSize>53408</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:40.5582983+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\01-007 Bumper 26_30.SLDPRT</FileName>
+      <SHA1>8EBCC90219845163FA7B5AB34863FF1C06BBE094</SHA1>
+      <FileSize>296198</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0263895+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\01-008 Chassis Corner Bracket.SLDPRT</FileName>
+      <SHA1>FAF762EC7C48FEC4DCCEA3D672FF3F99850CE9E7</SHA1>
+      <FileSize>700609</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0283846+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\01-009 Belly Pan.SLDPRT</FileName>
+      <SHA1>05F9ED425BEDBE48E43961C3C8D21B136BAD9CCE</SHA1>
+      <FileSize>175384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0303794+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\01-010 Chassis Corner Bracket Spacer.SLDPRT</FileName>
+      <SHA1>FC1AFCEEF333A6D2C9BE4975CF28859CC550628F</SHA1>
+      <FileSize>94816</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.0323738+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\01-011 Chassis Cross Beam.SLDPRT</FileName>
+      <SHA1>32D0D2AC10758073324CE5AD191D31E3AA2E54A8</SHA1>
+      <FileSize>2337698</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:13.8920961+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\Bracket - 90deg.SLDPRT</FileName>
+      <SHA1>C22C75190A0908407F1CCC02179D37798F65D37C</SHA1>
+      <FileSize>85902</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:40.5643153+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>01 Chassis\equations.txt</FileName>
+      <SHA1>C43F61445EA558AAAD5DDD7D5739895988107073</SHA1>
+      <FileSize>47</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.4514383+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-A Elevator Frame\02-A-000 Elevator Frame New.SLDASM</FileName>
+      <SHA1>83C742251F9EAF299FE5151B5214A1AF6F40C616</SHA1>
+      <FileSize>1493659</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:13.9851617+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-A Elevator Frame\02-A-000 Elevator Frame.SLDASM</FileName>
+      <SHA1>9E669CE9DFA3C73EBBE0648CEA7E9ED877C47E21</SHA1>
+      <FileSize>3159908</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.5730288+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-A Elevator Frame\02-A-001 Elevator Frame Left Side.SLDPRT</FileName>
+      <SHA1>68211C4F4AFFE41B47BC6554D6C7983A3F842FD7</SHA1>
+      <FileSize>1966264</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:13.9971303+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-A Elevator Frame\02-A-001 Elevator Frame Top Bar.SLDPRT</FileName>
+      <SHA1>BA46227C85A6790921F1372BB7D06BCD20FB1E94</SHA1>
+      <FileSize>9498755</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.5830677+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-A Elevator Frame\02-A-002 Elevator Frame Right Side.SLDPRT</FileName>
+      <SHA1>81C937C7FAC8202674232878C34954479376566F</SHA1>
+      <FileSize>2094294</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.0210668+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-A Elevator Frame\02-A-002 Elevator Frame Side Bar.SLDPRT</FileName>
+      <SHA1>1ABAEB31062208EC480AEF7F843403CBBDC7CCC1</SHA1>
+      <FileSize>9918859</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.5920184+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-A Elevator Frame\02-A-003 Elevator Frame Bottom.SLDPRT</FileName>
+      <SHA1>2B6750FD651B627BF290A8718E9796BFDA734D9D</SHA1>
+      <FileSize>1969560</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.0450042+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-A Elevator Frame\02-A-004 Elevator Frame Tower Back Right.SLDPRT</FileName>
+      <SHA1>11D51AC51144BBDE64882ECABF6AC9F9D408A419</SHA1>
+      <FileSize>1603646</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.0559743+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-A Elevator Frame\02-A-005 Elevator Frame Tower Front Right.SLDPRT</FileName>
+      <SHA1>F5BDC0EE09D7489FB9A04AA5CE714F5677F8487E</SHA1>
+      <FileSize>1891112</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.0769178+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-A Elevator Frame\02-A-006 Elevator Frame Tower Back Left.SLDPRT</FileName>
+      <SHA1>3BD2D23CA873B690FEBAF6EB926F9AC3649D0E35</SHA1>
+      <FileSize>1540772</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.0998550+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-A Elevator Frame\02-A-007 Elevator Frame Tower Front Left.SLDPRT</FileName>
+      <SHA1>4DEC596FE8526E3B5CB8F164805A3332DAA2D0C2</SHA1>
+      <FileSize>1810022</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.1118230+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-B Elevator Stage 1\02-B-000 Elevator Stage 1 New.SLDASM</FileName>
+      <SHA1>5A39F79CCAE5CE3831AB868265A7F0FF3BCE2190</SHA1>
+      <FileSize>1582155</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.1307734+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-B Elevator Stage 1\02-B-000 Elevator Stage 1.SLDASM</FileName>
+      <SHA1>D423BE5BA16C278B1F1BF128210C4571EDF046EA</SHA1>
+      <FileSize>3136272</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.6169835+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-B Elevator Stage 1\02-B-001 Elevator Stage 1 Top &amp; Bottom Bar.SLDPRT</FileName>
+      <SHA1>3B68F1375A3C1C66315A16D3BD75FB87563C8820</SHA1>
+      <FileSize>9696571</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.6229673+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-B Elevator Stage 1\02-B-001 Elevator Stage Top.SLDPRT</FileName>
+      <SHA1>F87953837110C52FE53C7536C022737DAA267865</SHA1>
+      <FileSize>4111528</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.1626870+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-B Elevator Stage 1\02-B-002 Elevator Stage 1 Side Bar.SLDPRT</FileName>
+      <SHA1>D2A28170CED1A5EB3146A724BE5DF1BD11EA90AC</SHA1>
+      <FileSize>10176395</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.6483933+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-B Elevator Stage 1\02-B-002 Elevator Stage Bottom.SLDPRT</FileName>
+      <SHA1>AAEB3014E50D928B55B8267DE26C398EE9E3CF0A</SHA1>
+      <FileSize>4023890</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.1965973+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-B Elevator Stage 1\02-B-003 Elevator Stage Left Side.SLDPRT</FileName>
+      <SHA1>61C2689F438DABD71A5F95D24821F673DF38CF02</SHA1>
+      <FileSize>1949925</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.2075679+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-B Elevator Stage 1\02-B-004 Elevator Stage Right Side.SLDPRT</FileName>
+      <SHA1>81B4ECE45C29386AAD3AE4763174283BA13882B8</SHA1>
+      <FileSize>5777643</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.2474610+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-C Elevator Carriage\02-C-000 Elevator Carriage.SLDASM</FileName>
+      <SHA1>4D27DCD9481929D81FF16996345C54194DFBE45C</SHA1>
+      <FileSize>1228256</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.2634179+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-C Elevator Carriage\02-C-000 Elevator Stage 2.SLDASM</FileName>
+      <SHA1>7E7A4EF58B4E4C0D905FD682C72A59D15F175BFD</SHA1>
+      <FileSize>3313026</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.6743231+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-C Elevator Carriage\02-C-001 Elevator Carriage Top.SLDPRT</FileName>
+      <SHA1>DB3B93447570541D23983165929AEF82B05151BE</SHA1>
+      <FileSize>1605515</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.2733910+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-C Elevator Carriage\02-C-001 Elevator Stage 2 Top &amp; Bottom Bar.SLDPRT</FileName>
+      <SHA1>E98E37EF9094F67B92F9CC7EA936249F3890B042</SHA1>
+      <FileSize>6848961</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.6928698+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-C Elevator Carriage\02-C-002 Elevator Carriage Bottom.SLDPRT</FileName>
+      <SHA1>CF83C2795568FFBEBCF416BFF2F813520EFA5944</SHA1>
+      <FileSize>1599499</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.2933377+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-C Elevator Carriage\02-C-002 Elevator Stage 2 Side Bar.SLDPRT</FileName>
+      <SHA1>31DE5C41D162BD65B6E68D180510FA9D5BE2F45D</SHA1>
+      <FileSize>9840982</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.7086607+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-C Elevator Carriage\02-C-003 Elevator Carriage Left Side.SLDPRT</FileName>
+      <SHA1>0F6DA96AA4C38FD659967D2E03DF92E00D584F8F</SHA1>
+      <FileSize>2866561</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.3142816+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-C Elevator Carriage\02-C-004 Elevator Carriage Right Side.SLDPRT</FileName>
+      <SHA1>A674B24EDB9289E2BA88C5EE97A32A290A7686EE</SHA1>
+      <FileSize>2823377</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.3366540+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\Bars\Bars.SLDPRT</FileName>
+      <SHA1>FC697021EC2BB389E92C4DCDE9BE41D70FF0F649</SHA1>
+      <FileSize>1541229</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.7304613+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\Manufacturing\Carriage Side.pdf</FileName>
+      <SHA1>0A6904EDEF7B2FE72D9613305BD769E592C3961C</SHA1>
+      <FileSize>63445</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:54.9692253+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\Manufacturing\Carriage Side.SLDDRW</FileName>
+      <SHA1>93755CE273C8788949F9366B2A8CDB3D08CCB9DC</SHA1>
+      <FileSize>274566</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:54.9672331+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\Manufacturing\Elevator Back Towers.pdf</FileName>
+      <SHA1>93F31B3A809ED4F6755579A44D4DED75D22183C1</SHA1>
+      <FileSize>59533</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:54.9742491+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\Manufacturing\Elevator Back Towers.SLDDRW</FileName>
+      <SHA1>303C70DB5835BDB799CC8224F848D62D7198513A</SHA1>
+      <FileSize>231017</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:54.9712360+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\Manufacturing\Elevator Frame Sides.pdf</FileName>
+      <SHA1>9F39F91E30312D69FC384B318564374B281352BA</SHA1>
+      <FileSize>71603</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:54.9794945+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\Manufacturing\Elevator Frame Sides.SLDDRW</FileName>
+      <SHA1>693A64A77295C7C8FAFE45D0DAFD5A5158731E0A</SHA1>
+      <FileSize>400349</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:54.9762404+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\Manufacturing\Elevator Front Towers.pdf</FileName>
+      <SHA1>2A0009D83AE8DA7CC27FF8AE0BD35CBDC98DE4CE</SHA1>
+      <FileSize>61401</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:54.9845174+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\Manufacturing\Elevator Front Towers.SLDDRW</FileName>
+      <SHA1>270AA79CC706D512DF98F250B0DDDB389859BC26</SHA1>
+      <FileSize>292288</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:54.9815189+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\Manufacturing\Elevator Stage Sides.pdf</FileName>
+      <SHA1>BE7065168AA180B8DEF61A917C42866B0858D6C8</SHA1>
+      <FileSize>70037</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:54.9885371+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\Manufacturing\Elevator Stage Sides.SLDDRW</FileName>
+      <SHA1>8646F52A97B5050724A158EEF1BD7D6FFBFC4A3A</SHA1>
+      <FileSize>495430</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:54.9865135+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\Old\#10 Socket Head Cap Screws_0.500in Long.STEP.SLDPRT</FileName>
+      <SHA1>C2054F455F3ED9EDF7F7C7849190CC4AC9926CCA</SHA1>
+      <FileSize>40950</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8003872+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\Old\#10 Socket Head Cap Screws_1.000in Long.STEP.SLDPRT</FileName>
+      <SHA1>36421A303C3EBAD4B5FAA2130D99750C81FA53DC</SHA1>
+      <FileSize>40904</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8023804+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\Old\#10-32 Button Head Cap Screws_0.500in Long.STEP.SLDPRT</FileName>
+      <SHA1>EF98ECF2B5979CFEF8B83146BB04C91971E5B7AA</SHA1>
+      <FileSize>45707</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8053733+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\Old\MAXPlanetary 1-Stage.SLDASM</FileName>
+      <SHA1>2D2BFE5D618C186F77F481790C8D7001B94C3363</SHA1>
+      <FileSize>1741878</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8160363+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\Old\MAXPlanetary 1-Stage.STEP.SLDASM</FileName>
+      <SHA1>A6BD9ED495287278004DAFB43F7CF714DCFE27F7</SHA1>
+      <FileSize>3421952</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8190722+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\Old\NEO Motor (REV-21-1650).SLDPRT</FileName>
+      <SHA1>E372AE9172AA9DD299BBBAC5E6ED0E0EB2ED4D4E</SHA1>
+      <FileSize>2625226</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8230892+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\Old\REV-21-1650.STEP.SLDPRT</FileName>
+      <SHA1>3C3ADFC96B44D09DBEC45E66294779EF3779CE4B</SHA1>
+      <FileSize>2135594</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8260808+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\Old\REV-21-2101.STEP.SLDPRT</FileName>
+      <SHA1>80D843EDDF42F5469562FB5956CB1FBF2DB0DB7D</SHA1>
+      <FileSize>2098295</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8296066+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\Old\REV-21-2104.STEP.SLDPRT</FileName>
+      <SHA1>19C6AA953D048FFCDCAFA7AED44A0BC1E0926DDB</SHA1>
+      <FileSize>806910</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8316276+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\Old\REV-21-2106.STEP.SLDPRT</FileName>
+      <SHA1>E637692D6C09577320E2C16D59D29F26B406E3FE</SHA1>
+      <FileSize>111536</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8336209+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\Old\REV-21-2108.STEP.SLDPRT</FileName>
+      <SHA1>F5166B1EF33F1F4FA718223E5E44884723DFA49C</SHA1>
+      <FileSize>190031</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8356140+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\Old\REV-21-2120.SLDPRT</FileName>
+      <SHA1>A32338653D4BE4CC54F60D91489A5B12A896D72A</SHA1>
+      <FileSize>6032490</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8405767+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\Old\REV-25-2107_1-Stage.STEP.SLDASM</FileName>
+      <SHA1>2E06159D4CC1A5679A4A117D61D2AED22B08BF9C</SHA1>
+      <FileSize>56115</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8425982+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\Old\REV-25-2109_1-Stage (No Shaft, For NEO).STEP.SLDASM</FileName>
+      <SHA1>8348EEFA750D5A78C1A8E68E3238EF10578D8779</SHA1>
+      <FileSize>85725</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8445931+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\0.500 Hex ID x 1.125 OD x 0.313 WD (Flanged Bearing v2) (217-3875).SLDPRT</FileName>
+      <SHA1>B3B7CE302305D06D5D925587F6C04F68FFB7FE98</SHA1>
+      <FileSize>126275</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.7325183+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\1 x 2 x 0.100 Pre-Drilled VersaFrame Aluminum Tube Stock (59) (217-3453).SLDPRT</FileName>
+      <SHA1>199F9C69F78F4859F065C50318335FE934B1931E</SHA1>
+      <FileSize>3007105</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.7364772+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\12t x 9mm Wide Aluminum Pulley (HTD 5mm, CIM Bore) (WCP-0076).SLDPRT</FileName>
+      <SHA1>06D654E218AD10DED5B2C4A0E86B066582BD3BA3</SHA1>
+      <FileSize>194472</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.7579148+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\1_2 OD Hex Stock (36) (217-2753).SLDPRT</FileName>
+      <SHA1>AA3DA0B9CC82CC0263567490B45B05A8FBD25C4D</SHA1>
+      <FileSize>74622</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.7608613+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\2x1 Cam Follower Bearing Assembly.SLDASM</FileName>
+      <SHA1>5D1F07BA8BFB28884D6C00EF394147E0019ED75C</SHA1>
+      <FileSize>1372908</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.7629185+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\36T x 9mm Wide Double Flange Aluminum Pulley (HTD 5mm, 1_2” Hex Bore) (217-3231).SLDPRT</FileName>
+      <SHA1>6E2E7BA4FC864F1D041EC9A7D0349E453C749678</SHA1>
+      <FileSize>789575</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.7659105+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\Elevator Corner Bracket.SLDPRT</FileName>
+      <SHA1>E132F415D104B23438A94DEF4F9E30D947DBC499</SHA1>
+      <FileSize>92559</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.7761309+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\MAX 90 Degree Gearbox (REV-21-2120).SLDASM</FileName>
+      <SHA1>F5BC5881B6F3F95E169683DB23D22097F2868875</SHA1>
+      <FileSize>1999887</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.7791532+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\MAXPlanetary 2-Stage NEO Example.SLDASM</FileName>
+      <SHA1>F84120B8FA5E367DC8C760F27EE48CDDF65D4067</SHA1>
+      <FileSize>26274783</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.7910935+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\OTS\MAXTube - 2x1 Light (REV-21-2161).SLDPRT</FileName>
+      <SHA1>1F3EBE0E32AE2C36A21D9E31994511A9A2CE585C</SHA1>
+      <FileSize>8949246</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.7970783+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\STLs &amp; DXFs\03-007 Pulley Spacer.STL</FileName>
+      <SHA1>DDB2C58A8969113FB27B041CF1EFA8C467DA4A5D</SHA1>
+      <FileSize>17884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8475573+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-000 Elevator New.SLDASM</FileName>
+      <SHA1>90BCE7B07DF5A2621F41798DEE248688C57A73BF</SHA1>
+      <FileSize>10675592</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:13.9617213+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-000 Elevator.SLDASM</FileName>
+      <SHA1>2FC2C42DB42A1D8DF7D7B85DF5C438563580C800</SHA1>
+      <FileSize>16147717</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.5465659+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-001 Elevator Corner Bracket with Bearing Cutout.SLDPRT</FileName>
+      <SHA1>1A6DD9B58EFA0EB80EFE217E732FCE9185FD8927</SHA1>
+      <FileSize>147362</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.5485608+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-002 Motor Mounting Bracket.SLDPRT</FileName>
+      <SHA1>539B6D487999B9EAFB088B654193FF39D4F82F72</SHA1>
+      <FileSize>92547</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.5515524+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\02-006 Top Cross.SLDPRT</FileName>
+      <SHA1>75B2FD1797AC99781468A678F394760A837A92EE</SHA1>
+      <FileSize>57542</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.5660785+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\03-007 Pulley Spacer.SLDPRT</FileName>
+      <SHA1>6312D6EF671DB358943117A5F28389B59CD81D67</SHA1>
+      <FileSize>71587</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.7234801+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\Back Vertical.SLDPRT</FileName>
+      <SHA1>B7A1664C6C44C33E970E153138100CAE14CB0D7A</SHA1>
+      <FileSize>76330</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.2371814+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\equations.txt</FileName>
+      <SHA1>1EEC9691497F40E228D7E020456268A8FFC7920D</SHA1>
+      <FileSize>155</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8500581+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>02 Elevator\Front Vertical.SLDPRT</FileName>
+      <SHA1>08AA7D1F82B766A899E5284F7E5E8F5D9AA854DE</SHA1>
+      <FileSize>73053</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.2391757+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\OTS\0.500 Hex ID x 1.125 OD x 0.313 WD (Flanged Bearing v2) (217-3875).SLDPRT</FileName>
+      <SHA1>C64E2942ADF6B8BE0BB5D612E3E8D54B6CFCA6BE</SHA1>
+      <FileSize>123680</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1146757+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\OTS\18T Aluminum Hub Sprocket (#25 Chain, 1_2 Hex Bore) (217-3488).SLDPRT</FileName>
+      <SHA1>6A46623267D9CFE14440F8398F72579A3622C198</SHA1>
+      <FileSize>429248</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1166414+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\OTS\1_2 Acetal Spacer - 1_2 Hex (217-3261).SLDPRT</FileName>
+      <SHA1>0C229FFCDDDF9EA4B8F32F2127547AE4371857CA</SHA1>
+      <FileSize>76824</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1186648+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\OTS\1_2 OD Hex Stock (36) (217-2753).SLDPRT</FileName>
+      <SHA1>FD8C9309E8A261EB5075BA8696F97DED4C4FCFAA</SHA1>
+      <FileSize>259918</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1219360+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\OTS\1_4 Acetal Spacer - 1_2 Hex (217-3259).SLDPRT</FileName>
+      <SHA1>A35EA5AABF7BBACA415662FB0CA35B5036ABE8C6</SHA1>
+      <FileSize>75435</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1239684+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\OTS\1” x 2” x 0.100” Pre-Drilled VersaFrame Plastic Tube Stock (59”) (217-4819).SLDPRT</FileName>
+      <SHA1>5E4CAFD111527FFBFF132EE24250733C88FB0A27</SHA1>
+      <FileSize>925671</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1269525+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\OTS\2 Piece Shaft Collar - 1_2in Hex Bore (REV-21-1912).SLDPRT</FileName>
+      <SHA1>3A63A47404F7C203D7EDEF288D2B11DBB72AEB4B</SHA1>
+      <FileSize>3817678</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1299180+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\OTS\Churro (am-churo 500).SLDPRT</FileName>
+      <SHA1>4B2B8A8E469F8773B75448056A540E5252A18B3A</SHA1>
+      <FileSize>158511</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1329367+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\OTS\Clamping Shaft Collar - 1_2 Hex ID (217-2737).SLDPRT</FileName>
+      <SHA1>646FD9BF7F89701F95E5B978D8BD6B8A286C843A</SHA1>
+      <FileSize>589633</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1359317+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\OTS\High Strength Clamping Shaft Collar - 1_2 Hex ID (217-4106).SLDASM</FileName>
+      <SHA1>2815F3EECEC3C465D0DBF0A82A06E580CCBD50ED</SHA1>
+      <FileSize>317700</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1379257+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\OTS\MAX 90 Degree Gearbox (REV-21-2120).SLDASM</FileName>
+      <SHA1>F5BC5881B6F3F95E169683DB23D22097F2868875</SHA1>
+      <FileSize>1999887</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1409559+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\OTS\MAXPlanetary 2-Stage NEO Example.SLDASM</FileName>
+      <SHA1>F84120B8FA5E367DC8C760F27EE48CDDF65D4067</SHA1>
+      <FileSize>26274783</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1538913+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\03-000 Arm.SLDASM</FileName>
+      <SHA1>8B3BAE5B5415656B0BF9F655BF40ED12CBE672BE</SHA1>
+      <FileSize>8034936</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.3835567+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\03-001 Arm Gusset.SLDPRT</FileName>
+      <SHA1>D094BE0EC3D19CD6BD987CEFD4568C831704BEA9</SHA1>
+      <FileSize>128679</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.0962214+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\03-002 Arm Side Left.SLDPRT</FileName>
+      <SHA1>28B2EC36E2D8F6356AC7F754800E4D05F15CA1A9</SHA1>
+      <FileSize>708654</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.0992150+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\03-003 Arm Side Right.SLDPRT</FileName>
+      <SHA1>48D84A2D236FE0AC15F79F94B5837FEAA21FE1C5</SHA1>
+      <FileSize>705940</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1022046+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\03-004 15_25 Axle.SLDPRT</FileName>
+      <SHA1>4E3A24C0E3A54C243597737D91F7065C77923A44</SHA1>
+      <FileSize>258183</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1046398+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\03-005 Arm Cross Churro.SLDPRT</FileName>
+      <SHA1>C8575B4F2376F9B037217A979CFD82604CF03D46</SHA1>
+      <FileSize>162846</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1066362+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\03-006 Wrist Pivot Tube Stock Left.SLDPRT</FileName>
+      <SHA1>F86AF6A994D2D8945A027526ABE490CECDB6BE14</SHA1>
+      <FileSize>998919</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1096280+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>03 Arm\03-007 Wrist Pivot Tube Stock Right.SLDPRT</FileName>
+      <SHA1>1B310A215615CC39E0AA4DFD15F797B769BB1939</SHA1>
+      <FileSize>999640</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1116532+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\Manufacturing\04-002 Jetson Box.STL</FileName>
+      <SHA1>9069DA3568B42FC53A8DA64154D37D7AE12B5471</SHA1>
+      <FileSize>167384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8623834+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\OTS\Battery.SLDPRT</FileName>
+      <SHA1>ACB3BD2C771A8E10C8441C22D25A80339F508425</SHA1>
+      <FileSize>170688</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.2561862+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\OTS\Limelight 2.SLDPRT</FileName>
+      <SHA1>057D85182FCDED52A1DCFF2A51D9B0FCC42F2639</SHA1>
+      <FileSize>4709837</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.2611465+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\OTS\OM5P-AC_Radio.SLDPRT</FileName>
+      <SHA1>EBC8408EAF7359EFFC77D54A1EDA419D13D576E4</SHA1>
+      <FileSize>908475</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.2631419+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\OTS\Pneumatic Control Module (217-4243).SLDPRT</FileName>
+      <SHA1>0E39BA6A5334ACB117F582C16AA8368189155BDE</SHA1>
+      <FileSize>10778991</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.2701226+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\OTS\Power Distribution Hub (REv-11-1850).SLDPRT</FileName>
+      <SHA1>0F115C1E681B9E566784A0B44626EE9086740481</SHA1>
+      <FileSize>31219235</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.2850824+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\OTS\Power Distribution Panel (217-4244).SLDPRT</FileName>
+      <SHA1>8EBDEA341EB36263A24E371560412D2880808A12</SHA1>
+      <FileSize>14888502</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.2940586+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\OTS\SPARK MAX Motor Controller (REV-11-2158).SLDPRT</FileName>
+      <SHA1>E7D83B60721881F1A1E367BBF9B39DBE0E7C5ADF</SHA1>
+      <FileSize>2179178</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.2970506+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\OTS\Talon SRX (217-8080) (No Wires).SLDASM</FileName>
+      <SHA1>E7C802CD39374F78599A45F95C2FBD304183E8EF</SHA1>
+      <FileSize>4805366</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.3010397+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\OTS\Talon SRX (217-8080).SLDASM</FileName>
+      <SHA1>6AD2C71125E73BBE07FE765A220396C4BEA0F646</SHA1>
+      <FileSize>4736034</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.3040319+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\OTS\Victor SPX (217-9191).SLDASM</FileName>
+      <SHA1>A9049BEB47BC0FCB0BBAC25E20815816DB7802BB</SHA1>
+      <FileSize>9754889</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.3100158+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\OTS\Voltage Regulator Module (217-4245).SLDPRT</FileName>
+      <SHA1>CBB5950AEDAC2B329A56F85A5B5AFA760847FC2E</SHA1>
+      <FileSize>6368817</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.3150383+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\STL &amp; DXF\04-003 Limelight Cover.STL</FileName>
+      <SHA1>1668A159DC2DDB239612B71844709CA7DB52ADF9</SHA1>
+      <FileSize>188184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.3915084+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\STL &amp; DXF\04-004 Realsense Mount.STL</FileName>
+      <SHA1>CB4975B0CD0F69E476B7D6870E6D3A7E9B0DD498</SHA1>
+      <FileSize>38484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.3944995+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\04-000 Belly Pan Electronics.SLDASM</FileName>
+      <SHA1>29E499053B4BC4744D60B4DA9CCD42D2D058A9D0</SHA1>
+      <FileSize>14404398</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.2501758+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\04-001 Belly Panel.SLDPRT</FileName>
+      <SHA1>3F5662C8ED3DE7D9EB3B1374E789061E39ECDF0E</SHA1>
+      <FileSize>62527</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.2521995+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\04-002 Jetson Box.SLDPRT</FileName>
+      <SHA1>B350A7D406252144F9EC0BAAFC6C0242A8BC4888</SHA1>
+      <FileSize>297918</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8590358+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\04-003 Limelight Cover.SLDPRT</FileName>
+      <SHA1>CDCA82B7014ECA6ACAA76C153C632ADD15FE8476</SHA1>
+      <FileSize>376818</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.3865208+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\04-004 Realsense Mount.SLDPRT</FileName>
+      <SHA1>F2D0A00985E4EC5AD1210476EA0EC9AA6FE1D38B</SHA1>
+      <FileSize>104607</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.3885162+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>04 Electronics\Belly Panel.SLDPRT</FileName>
+      <SHA1>04F0C274170A35CA930491E89F738BAB43721AF7</SHA1>
+      <FileSize>63531</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.2541944+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\1in Extrusion - 4ft (REV-21-1000).SLDPRT</FileName>
+      <SHA1>674F4CA1CFAFCBCD8DC8D2BCDB3B2C9C72FB3B60</SHA1>
+      <FileSize>241101</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8994411+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\1in Flat Universal Motor Bracket V2 (REV-21-1841).SLDPRT</FileName>
+      <SHA1>7DACDCDCB624739D9D55CCC8E9ED081EE4D109F5</SHA1>
+      <FileSize>132389</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9024335+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\1in Square Aluminum Tube 6546K536.SLDPRT</FileName>
+      <SHA1>ACF7EE4A5132D90548D9CBDDAC87A41530D78079</SHA1>
+      <FileSize>66344</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0058737+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\1_2 Hex x 0.201 ID ThunderHex Stock (36) (217-4017).SLDPRT</FileName>
+      <SHA1>83D69EF160545EFC5E43E4ED5B774614574940E1</SHA1>
+      <FileSize>66601</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0038442+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\1_2” Hex Bore Aluminum VersaHub (217-2592).SLDPRT</FileName>
+      <SHA1>314C90865752263A8E897A8ACA53420E72A2E6FD</SHA1>
+      <FileSize>227661</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8974476+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\1” x 2” x 0.100” Pre-Drilled VersaFrame Plastic Tube Stock (59”) (217-4819).SLDPRT</FileName>
+      <SHA1>04E685B7E66D77632D81511AAC97364A524D3A7B</SHA1>
+      <FileSize>381061</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0078683+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\4 OD Straight Flex Wheel (217-6450).SLDPRT</FileName>
+      <SHA1>835C9443F5A5458FF5EA9A18586A8128D86FB0DC</SHA1>
+      <FileSize>261501</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9054253+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\95075A101_Plastic Externally Threaded Precision Acme Nut.SLDPRT</FileName>
+      <SHA1>5353A9D4AC34B275570D5D9226D517B14C592263</SHA1>
+      <FileSize>842500</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0108626+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\95082A641_Precision Acme Flange.SLDPRT</FileName>
+      <SHA1>2303F3F9381DED8068FBB279CEBB69E4C25A92A8</SHA1>
+      <FileSize>404553</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0139006+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\99030A100_1018 Carbon Steel Precision Acme Lead Screw.SLDPRT</FileName>
+      <SHA1>57F58B5510EB42C5565765F1255C4F4BA51F47B1</SHA1>
+      <FileSize>4069351</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0179500+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\High Strength Clamping Shaft Collar - 1_2 Hex ID (217-4106).SLDASM</FileName>
+      <SHA1>CF7D1883AB2102A777B071D8E9669DF420D45646</SHA1>
+      <FileSize>318593</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9074199+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\MAXPlanetary 1_2in Hex Socket Output (REV-21-2104).SLDPRT</FileName>
+      <SHA1>34F67078594343BE73D61C60A94CC90B470F0BEB</SHA1>
+      <FileSize>2486541</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9104620+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\MAXPlanetary Cartridge (REV-21-2101).SLDPRT</FileName>
+      <SHA1>8FF4E699B00BE16FA70ED873F07C116E3097D115</SHA1>
+      <FileSize>2966730</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9142629+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\MAXPlanetary Universal Input Stage (REV-21-2106).SLDPRT</FileName>
+      <SHA1>97033A4BDF94187D19F93AB1CDB30521ECB4E2A8</SHA1>
+      <FileSize>191859</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9162842+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\NEO Motor (REV-21-1650).SLDPRT</FileName>
+      <SHA1>729AF271A3E44255E34E56B6D54BB95068A891B0</SHA1>
+      <FileSize>2607572</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9202451+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\ThriftyMotorMegaplate.stp</FileName>
+      <SHA1>D30D1AB52B80021F7F5DB2A5ED649E786636A88D</SHA1>
+      <FileSize>73168</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0250678+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\TTB-0004_TheThriftyBushing.stp</FileName>
+      <SHA1>FD9D5D6EB419D9CC9B3E26CE6D6D01E6C25478F8</SHA1>
+      <FileSize>8985</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0199727+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\TTB-0004_TheThriftyBushing.stp.SLDPRT</FileName>
+      <SHA1>AF38CF540B7FFD875FC2EA959990A4488928BEBF</SHA1>
+      <FileSize>79957</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0219658+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\V-Groove Bearing (REV-29-1014).SLDPRT</FileName>
+      <SHA1>51C5C5CF7766B19594507F9F717F525A56DD0D36</SHA1>
+      <FileSize>116632</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9222683+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\WCP-0779.step</FileName>
+      <SHA1>DA17C6BDE2AC42E8140AC213421DF333C2054EA3</SHA1>
+      <FileSize>34359</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0277522+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\OTS\WCP-0779.step.SLDPRT</FileName>
+      <SHA1>ECDC4CD48EA3A4996EF4018596205281BAC290DA</SHA1>
+      <FileSize>91542</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0297750+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Rope Claw\0.196 to 0.25 bearing adapter.SLDPRT</FileName>
+      <SHA1>38E1297CF193DB708B1DED4B43305BE3512C6CA2</SHA1>
+      <FileSize>72151</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9252333+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Rope Claw\0.196 to 0.25 bearing adapter.STL</FileName>
+      <SHA1>2B5639CF1244E1806F6D690643B6316C17A6528A</SHA1>
+      <FileSize>22484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9272279+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Rope Claw\0.5in x 1 in pulley.SLDPRT</FileName>
+      <SHA1>6B8FC74B87FCCFCB90D1E10FFD814697A9ECD532</SHA1>
+      <FileSize>139130</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0317696+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Rope Claw\0.5in x 1 in pulley.STL</FileName>
+      <SHA1>A31B4EEBDBD59D4EE52B7E673FF7ECC3DAFBFD4B</SHA1>
+      <FileSize>604384</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0347340+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Rope Claw\0.75in CFS 5lb.SLDPRT</FileName>
+      <SHA1>A085466388CFCA3A7322A746229C7EF77981316D</SHA1>
+      <FileSize>94326</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9292229+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Rope Claw\1in 10lb CFS Spacer.SLDPRT</FileName>
+      <SHA1>92675D8CDD4188615839568C18458DBE3C21450C</SHA1>
+      <FileSize>79902</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9371999+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Rope Claw\1in CFS 10lb.SLDPRT</FileName>
+      <SHA1>853C435B9F9D065DF4DF6CE73627ED35020A927F</SHA1>
+      <FileSize>98602</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9402306+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Rope Claw\1in Extrusion - 24in (REV-21-1000).SLDPRT</FileName>
+      <SHA1>91C6F9AA60FA9DBCE73873FBE786E96FAB842C86</SHA1>
+      <FileSize>387560</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9422252+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Rope Claw\1x2x.09 U channel.SLDPRT</FileName>
+      <SHA1>6BD314C88EE67F4183A98AEAC55B3149131EF19F</SHA1>
+      <FileSize>103543</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9442199+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Rope Claw\cfs spacer.SLDPRT</FileName>
+      <SHA1>2C8B04CA8E4CF8B640DA7542D41224E924DCE513</SHA1>
+      <FileSize>67406</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9561879+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Rope Claw\Claw.DXF</FileName>
+      <SHA1>38CDC8FE9717D55250408796BD96791FD0E9AAFA</SHA1>
+      <FileSize>27038</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9472119+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Rope Claw\Claw.SLDPRT</FileName>
+      <SHA1>9C8AC6B0984979555BB3FD8FF11132A4C4EA118A</SHA1>
+      <FileSize>135442</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9492066+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Rope Claw\drive output 1_2 Hex x 0.201 ID ThunderHex Stock.SLDPRT</FileName>
+      <SHA1>F0C5F97C9F85A66AA5C7BDBD3DBD09BFFB584A5D</SHA1>
+      <FileSize>116725</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9581826+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Rope Claw\Linear rope claw.SLDASM</FileName>
+      <SHA1>4DF0300717B655E65492139A3B5C81AC1D1D80E2</SHA1>
+      <FileSize>3819229</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9531960+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Rope Claw\pulley post.SLDPRT</FileName>
+      <SHA1>8AE6B949D2B14505A1A3EA6FAEEF7187D3CD419D</SHA1>
+      <FileSize>54377</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9601771+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Screw Claw 2\0.375 3764N137_High-Strength Gt Timing Belt Pulley.SLDPRT</FileName>
+      <SHA1>032F133E574660AA9561D88398DC290AA5052380</SHA1>
+      <FileSize>432900</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9631693+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Screw Claw 2\0.375 3764N137_High-Strength Gt Timing Belt Pulley.STL</FileName>
+      <SHA1>4DA00F5ADF516455E0D525B3C6818DCA2B8D8AEF</SHA1>
+      <FileSize>395884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9651639+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Screw Claw 2\Claw.DXF</FileName>
+      <SHA1>C96E699322B97CF48EA409F49117BE3201CF79EB</SHA1>
+      <FileSize>30298</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9672274+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Screw Claw 2\Claw.SLDPRT</FileName>
+      <SHA1>D9172ED5FA1B5D4E0DD6230FFF7F99180EBB6892</SHA1>
+      <FileSize>138512</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9702476+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Screw Claw 3\12in 1in Square Aluminum Tube 6546K536.SLDPRT</FileName>
+      <SHA1>846D5CA03022D949B0D5393EA23F73ED22816B1F</SHA1>
+      <FileSize>91332</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0367284+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Screw Claw 3\1_2 Hex x 0.201 ID ThunderHex Stock (21.75) (217-4017).SLDPRT</FileName>
+      <SHA1>73C12506579F3B06466E81AF67C25439C579F181</SHA1>
+      <FileSize>91381</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0387229+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Screw Claw 3\21.75in 0.375x5 Carbon Steel Precision Acme Lead Screw.SLDPRT</FileName>
+      <SHA1>4D3CA8FF830ABC74E8DDFE3603C4772ECB4BC8D6</SHA1>
+      <FileSize>3361659</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0437106+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Screw Claw 3\22inx1in Square Aluminum Tube 6546K536.SLDPRT</FileName>
+      <SHA1>1252583256DB4C529DC06A93F67AB2365C648840</SHA1>
+      <FileSize>90014</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0467658+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Screw Claw 3\claw 1” x 2” x 0.100” Pre-Drilled VersaFrame Plastic Tube Stock.SLDDRW</FileName>
+      <SHA1>3E206BA2AF989DC04C52F272AFC70E853879D576</SHA1>
+      <FileSize>125482</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.4034752+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Screw Claw 3\claw 1” x 2” x 0.100” Pre-Drilled VersaFrame Plastic Tube Stock.SLDPRT</FileName>
+      <SHA1>16C1F5FA20BED8D3958CBF887B724D49476076CC</SHA1>
+      <FileSize>452979</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.4084625+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Screw Claw 3\claw3.SLDASM</FileName>
+      <SHA1>96873D8F0A5A90AA485B74A8CDA4760E29A65657</SHA1>
+      <FileSize>3701116</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.4390652+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Screw Claw 3\short 1in Square Aluminum Tube 6546K536.SLDDRW</FileName>
+      <SHA1>620920F8895C03B62386518FDEFA2FBDACFD7216</SHA1>
+      <FileSize>120360</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0572752+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Screw Claw 3\short 1in Square Aluminum Tube 6546K536.SLDPRT</FileName>
+      <SHA1>9CEE8BF2FFB3662968927D71F24B7CA142AF942B</SHA1>
+      <FileSize>126393</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0602406+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Screw Claw 3\ThriftyMotorMegaplate.stp.SLDPRT</FileName>
+      <SHA1>D7E9F05A38A093CF366BD2A9775E5DB8E633EC7F</SHA1>
+      <FileSize>120136</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:55.0487907+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\0.375 24 t Gt Timing Belt Pulley.STL</FileName>
+      <SHA1>20F3F9A13281031353CAE792A74CE0410D8737A9</SHA1>
+      <FileSize>309684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:54.9905037+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\0.500 Hex ID x 1.125 OD x 0.313 WD (Flanged Bearing v2) (217-3875).SLDPRT</FileName>
+      <SHA1>FA2E1E17A58C91FA9FEE11ADF7F3B79E348AE6D8</SHA1>
+      <FileSize>134012</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.3170263+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\24 t Gt Timing Belt Pulley extra wide.SLDPRT</FileName>
+      <SHA1>B57746F2780392B3CC9C5AADC706EE489112C28E</SHA1>
+      <FileSize>373252</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8643796+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\24 t Gt Timing Belt Pulley extra wide.STL</FileName>
+      <SHA1>7FA6C791E4F31C0762C9FD962F1FEC9A1DE1B0DD</SHA1>
+      <FileSize>304284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8663741+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\3 inch 1_2 Hex x 0.201 ID ThunderHex Stock (18) (217-4002).SLDPRT</FileName>
+      <SHA1>00E9186BBFB7AEFB2A15EF842960A370CECE96A2</SHA1>
+      <FileSize>117620</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.3190215+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\40T Aluminum Spur Gear (20 DP, 1_2 Hex Bore) (217-2708).SLDPRT</FileName>
+      <SHA1>47C9B9C26960783E7F82E17286F6F01C06446E50</SHA1>
+      <FileSize>321001</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.3210152+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\6.5 inch MAXTube - 2x1 with MAX Pattern (REV-21-2185).SLDPRT</FileName>
+      <SHA1>E87552486F8DA9CB70B5966E8E756F4286431A63</SHA1>
+      <FileSize>4346987</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.3787648+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\8mm keyed 24 t Gt Timing Belt Pulley.SLDPRT</FileName>
+      <SHA1>5CE07F1EB560D01712D6F1EA61E18D525B85CCCB</SHA1>
+      <FileSize>382148</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:54.9944932+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\8mm keyed 24 t Gt Timing Belt Pulley.STL</FileName>
+      <SHA1>3152D47790C84990D8E6481608FCA1405D088597</SHA1>
+      <FileSize>316284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-16T03:36:54.9964878+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\BeltReverser.SLDASM</FileName>
+      <SHA1>720F105288B225D90E76F65B53832A26D4419E2F</SHA1>
+      <FileSize>1393806</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.3907333+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Mag Encoder Hold Down.SLDPRT</FileName>
+      <SHA1>925C92C9228ECD455C773E8E965D4C08D798DBE0</SHA1>
+      <FileSize>101580</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.3984887+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Mag Encoder Hold Down.STL</FileName>
+      <SHA1>A4EA91D7CDB5A842D4F3AA073C4F60260851FAF3</SHA1>
+      <FileSize>23084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:14.4004833+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Mag Encoder to PWM Housing Cap.SLDPRT</FileName>
+      <SHA1>B3046066ADA82D033CE71CBB8ABC06AC9187EA55</SHA1>
+      <FileSize>166457</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8794463+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Mag Encoder to PWM Housing Cap.STL</FileName>
+      <SHA1>F4C25521E0289F2C385005E3C275BBC6F94F4051</SHA1>
+      <FileSize>7484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8814408+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Mag Encoder to PWM Housing.SLDPRT</FileName>
+      <SHA1>4566E7848C4CE77499DF8CBE796254A5507A4263</SHA1>
+      <FileSize>175186</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8924598+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\Mag Encoder to PWM Housing.STL</FileName>
+      <SHA1>5535E177F35B1D3CB5CAD169273DCDE34AEC3917</SHA1>
+      <FileSize>110484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.8954519+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\MAXPlanetary 1_2in Hex Socket Output (REV-21-2104).SLDPRT</FileName>
+      <SHA1>34F67078594343BE73D61C60A94CC90B470F0BEB</SHA1>
+      <FileSize>2486541</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.3937876+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\REV-21-2104.SLDPRT</FileName>
+      <SHA1>4051C5921289898A7001F3945BC9C17833A48F8A</SHA1>
+      <FileSize>1706229</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4008000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\REV-21-2104.STEP</FileName>
+      <SHA1>1C78BD30ADE39789CFC881F7AD82CB572F9BF905</SHA1>
+      <FileSize>2909911</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4038223+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\WCP-0662.SLDPRT</FileName>
+      <SHA1>87981A96E7593080D7B043D0CE238748F7C4AFF3</SHA1>
+      <FileSize>297587</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4058172+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\WCP-0662.step</FileName>
+      <SHA1>8F774CAC70233F0CFF375D9189360EE54A13E306</SHA1>
+      <FileSize>492242</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4078517+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\WCP-0663.SLDPRT</FileName>
+      <SHA1>552ABAECAD5E73BF58A5147946FB11C06C3101F8</SHA1>
+      <FileSize>396720</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4098372+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\WCP-0663.step</FileName>
+      <SHA1>9E62D6A9AB8641AAB380F43732FC38B9BF54D563</SHA1>
+      <FileSize>722836</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4118318+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\WCP-0664.SLDPRT</FileName>
+      <SHA1>7FC463D3D8EB256FD94BA4D33E194CC0B06F9D2F</SHA1>
+      <FileSize>510029</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4138264+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\WCP-0664.step</FileName>
+      <SHA1>83C167839AB0F7A1D29BF7910C14E96FBA1A4128</SHA1>
+      <FileSize>964813</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4168185+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\WCP-0665.SLDPRT</FileName>
+      <SHA1>73A44FB34FA6D6485F0581978FF688F164E09EFD</SHA1>
+      <FileSize>618991</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4188548+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Acosta\WCP-0665.step</FileName>
+      <SHA1>296B06AFAEC364EACC8E7B1BDECBF3474F3720B5</SHA1>
+      <FileSize>1198321</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4218483+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Michael\Finalized Ball Joint.SLDPRT</FileName>
+      <SHA1>4A00DBD30E7D2120F064050087A6DB1FA4116F8C</SHA1>
+      <FileSize>443206</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9810661+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Michael\Finalized Socket.SLDPRT</FileName>
+      <SHA1>F6E84C299A4491AFBF0BC8432628AD38D4EE1134</SHA1>
+      <FileSize>537428</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9831099+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Parallel Claw\Claw Bottom.SLDPRT</FileName>
+      <SHA1>B35D8DC68F817E3A7F9247FFC510ECDCA0DEC815</SHA1>
+      <FileSize>123487</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4238836+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Parallel Claw\Claw Top.SLDPRT</FileName>
+      <SHA1>A74B4B2877443A2FE807F2EFC376BC603536E4A7</SHA1>
+      <FileSize>122965</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4258690+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Parallel Claw\Left Gripper.SLDPRT</FileName>
+      <SHA1>1D9C84787BA56EDD4C1564620B5FDF1A182F9873</SHA1>
+      <FileSize>82344</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4278611+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Parallel Claw\Parallel Claw Prototype.SLDASM</FileName>
+      <SHA1>771C4A9D34E1273EE57E8441405EDD1F6C1FC38D</SHA1>
+      <FileSize>68208</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4298553+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Parallel Claw\VersaPlanetary v2 Two Stage 100 1 with BAG.SLDASM</FileName>
+      <SHA1>E97A0ECB87642B9D310702F019F72F10B8D9AE72</SHA1>
+      <FileSize>6292026</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4388852+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\Cardboard\Back.DXF</FileName>
+      <SHA1>E05BDE850D5D86D311B3D99C98FD674705A4B740</SHA1>
+      <FileSize>24091</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4778020+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\Cardboard\Back.SLDPRT</FileName>
+      <SHA1>46FA2D1B930AE063EFB8D787B09EDEAE9D2510B7</SHA1>
+      <FileSize>73621</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4798000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\Cardboard\Claw.DXF</FileName>
+      <SHA1>F33F86A0E9D25F65D68D03F5C359A7325B70AB94</SHA1>
+      <FileSize>25513</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4817921+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\Cardboard\Claw.SLDASM</FileName>
+      <SHA1>4F00C2B28AAA4863E754EA66557CB4A8A3BFF0C7</SHA1>
+      <FileSize>167772</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4837864+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\0.375 Hex ID x 1.125 OD x 0.313 WD (Flanged Bearing) (217-2735).SLDPRT</FileName>
+      <SHA1>859A660AF03E165DE9B08907A7B1C1FC85CF6EFE</SHA1>
+      <FileSize>98083</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4409256+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\0.500 Hex ID x 1.125 OD x 0.313 WD (Flanged Bearing v2) (217-3875).SLDPRT</FileName>
+      <SHA1>C64E2942ADF6B8BE0BB5D612E3E8D54B6CFCA6BE</SHA1>
+      <FileSize>123680</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4429200+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\1_2 to 3_8 Hex Adapter.SLDPRT</FileName>
+      <SHA1>1763130E1F051A94AD410A4E337BD750BAC84FA0</SHA1>
+      <FileSize>83305</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4449147+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\1_2 to 3_8 Hex Adapter.STL</FileName>
+      <SHA1>72D18EEE9F449835D0F6C436DA956C51F3D9AA19</SHA1>
+      <FileSize>3084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4527619+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\24T Aluminum Spur Gear (20 DP, 3_8 Hex Bore) (217-2703).SLDPRT</FileName>
+      <SHA1>890F51960D5B66DC909C0EEEC843FB9A7CAD62F6</SHA1>
+      <FileSize>285341</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4547871+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\24T x 9mm Wide Double Flange Aluminum Pulley (GT2 3mm, 1_2 Hex Bore) (217-5875).SLDPRT</FileName>
+      <SHA1>A70B5FDA423F4E99B5E0AD9C80A64A6644B684BD</SHA1>
+      <FileSize>248718</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4567814+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\26T Aluminum Spur Gear (20 DP, 3_8 Hex Bore) (217-5453).SLDPRT</FileName>
+      <SHA1>4C2B877FD9F45F89FB8CEBD978FCE31E4CA1BEF5</SHA1>
+      <FileSize>212526</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4587780+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\30T Aluminum Spur Gear (20 DP, 3_8 Hex Bore) (217-3210).SLDPRT</FileName>
+      <SHA1>E64B533311DA7ABB9637CEBDCF57A36D05B4AB6D</SHA1>
+      <FileSize>303498</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4608173+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\36T x 9mm Wide Double Flange Aluminum Pulley (GT2 3mm, 1_2 Hex Bore) (217-5873).SLDASM</FileName>
+      <SHA1>956AA2095CFC0A45E7EB3480BA4789DAF8310B06</SHA1>
+      <FileSize>756974</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4628472+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\3_8 OD Hex Stock (36) (217-2754).SLDPRT</FileName>
+      <SHA1>F5692CD1AC428DA12613838F5A91E83B92D123F1</SHA1>
+      <FileSize>106742</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.0120622+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\Back.SLDPRT</FileName>
+      <SHA1>49157BCEDDC92E2A2388425CCBD3B3C0EA5178BD</SHA1>
+      <FileSize>74599</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4758074+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\BAG Motor (217-3351).SLDPRT</FileName>
+      <SHA1>52910BD0D06C657E3A4FF21264E71FB384C3BEAF</SHA1>
+      <FileSize>169251</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4668289+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\BAG with 2-stage VersaPlanetary.SLDASM</FileName>
+      <SHA1>1E1E8A1B58A02513F4D77406750325751E4BD74D</SHA1>
+      <FileSize>11656722</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4737840+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\Claw Fixed Bottom.DXF</FileName>
+      <SHA1>14EF4B898A864CE3C15D01EE8B3581E10FB2EE68</SHA1>
+      <FileSize>27049</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.0140612+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\Claw Fixed Bottom.SLDPRT</FileName>
+      <SHA1>42E7080A95ED721AB2498C0886CACDB2942E5590</SHA1>
+      <FileSize>153218</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.0259965+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\Claw Fixed Top.DXF</FileName>
+      <SHA1>9F1885D5790CE552EB25D64D6E1D44EA4DD2225D</SHA1>
+      <FileSize>26658</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.0280217+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\Claw Fixed Top.SLDPRT</FileName>
+      <SHA1>50DE3BFA0E7111B3DDCCD965AF0D1BD6EA0CC0BE</SHA1>
+      <FileSize>151701</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.0439485+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\Claw.DXF</FileName>
+      <SHA1>78E24B325B3A12E0A888AE28828B48ABCDE1E728</SHA1>
+      <FileSize>27488</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.0459795+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\Claw.SLDPRT</FileName>
+      <SHA1>C0869CF3F643CABEF550FF1065B3BE310BBF6F25</SHA1>
+      <FileSize>109033</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.0539215+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\HD Hex Motor 40-1 Spur Gearbox (REV-41-1301).SLDASM</FileName>
+      <SHA1>5C8D1B97631B5B5364467044EAAD27F97B8ECA5B</SHA1>
+      <FileSize>4036692</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4937306+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\Part2.SLDPRT</FileName>
+      <SHA1>8C73EC676CFF883CBC5973E4D9878E6E593918DA</SHA1>
+      <FileSize>97669</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.4957547+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\Pivot Claw Prototype.SLDASM</FileName>
+      <SHA1>4893B1F8846865FF91DC4BA23AA3C7A0AFF052CE</SHA1>
+      <FileSize>7159670</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.1041212+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\VersaPlanetary 3_8 Hex Output Shaft Kit (217-2894).SLDPRT</FileName>
+      <SHA1>D868756D00A325AE088B41FA05C6297A0DDAB81D</SHA1>
+      <FileSize>1225960</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5027352+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw\VersaPlanetary v2 Two Stage 100 1 with BAG.SLDASM</FileName>
+      <SHA1>2A9BF5FDBB79747997C9BFDB1B6CADFC77D77B53</SHA1>
+      <FileSize>7225604</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5086907+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Manipulator Claw\0.375 Hex Flanged Bearing.SLDPRT</FileName>
+      <SHA1>FD911AAB0A076041CF4074D19990BFCCBBCB34FE</SHA1>
+      <FileSize>100553</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5107147+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Manipulator Claw\16T Aluminum Spur Gear (20 DP, 3_8 Hex Bore).SLDPRT</FileName>
+      <SHA1>97D1B47046E4231B6A0EB5A5078FEAB05295BE90</SHA1>
+      <FileSize>282805</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5127092+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Manipulator Claw\18T Aluminum Spur Gear (20 DP, 3_8 Hex Bore).SLDPRT</FileName>
+      <SHA1>69C468FE73C227A73752F00D2AFC370AF9BC454D</SHA1>
+      <FileSize>294645</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5156721+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Manipulator Claw\18T Aluminum Spur Gear (20 DP, 3_8 Hex Bore).STL</FileName>
+      <SHA1>EF1F60000FA5440C3A56F6AC4AE5147739B43CA3</SHA1>
+      <FileSize>144484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5177001+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Manipulator Claw\1” x 2” Tube Stock.SLDPRT</FileName>
+      <SHA1>07F7310188C42BD092687DB1DFB8ED0CC11817F0</SHA1>
+      <FileSize>549667</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5206878+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Manipulator Claw\5172T11_Metal Gear - 20 Degree Pressure Angle.SLDPRT</FileName>
+      <SHA1>C4E158ADC96E24EF449A8F889A183AA89D9E4D1B</SHA1>
+      <FileSize>438090</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5226868+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Manipulator Claw\5174T1_Metal Gear Rack - 20 Degree Pressure Angle.SLDPRT</FileName>
+      <SHA1>25DE906BFA3ABE906DA11F2C6DBEC1E380A9BB6F</SHA1>
+      <FileSize>1181870</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5256738+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Manipulator Claw\5174T1_Metal Gear Rack - 20 Degree Pressure Angle.STL</FileName>
+      <SHA1>E91F0C8054BD5083129D5BD69D8F931F8DE73F0F</SHA1>
+      <FileSize>291084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5276689+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Manipulator Claw\Claw Ass.SLDASM</FileName>
+      <SHA1>57C3EF43BC388C20261974A6B7E93362F57D6FBE</SHA1>
+      <FileSize>350979</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5306330+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\36inch by 26 inch Elevator\02-000 Elevator.SLDASM</FileName>
+      <SHA1>7AD28B8F63FCF3F0B27F1414C8BF9FC981A7DCA7</SHA1>
+      <FileSize>3856847</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5346216+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\36inch by 26 inch Elevator\02-A-000 Elevator Frame.SLDASM</FileName>
+      <SHA1>38ABD90CCA42FDF0DAA5354E544F1623063EF734</SHA1>
+      <FileSize>3184028</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5376133+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\36inch by 26 inch Elevator\02-A-001 Elevator Frame Top Bar.SLDPRT</FileName>
+      <SHA1>86A3D2E4CFF42D5324A567FA074BAC0B5B8FB1A4</SHA1>
+      <FileSize>9612805</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5445951+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\36inch by 26 inch Elevator\02-A-002 Elevator Frame Side Bar.SLDPRT</FileName>
+      <SHA1>DE6EE5F2A5C7BB138D0E410C0ABF212EBA5C5D40</SHA1>
+      <FileSize>9780161</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5515762+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\36inch by 26 inch Elevator\02-B-000 Elevator Stage 1.SLDASM</FileName>
+      <SHA1>21FABAC30379E185F3A7F80BA177CAB94CF0D4D3</SHA1>
+      <FileSize>3160080</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.1340738+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\36inch by 26 inch Elevator\02-B-001 Elevator Stage 1 Top &amp; Bottom Bar.SLDPRT</FileName>
+      <SHA1>C82B10E5A0AA5F1AAE8AF0A844201790C918BFB7</SHA1>
+      <FileSize>9756305</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5625467+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\36inch by 26 inch Elevator\02-B-002 Elevator Stage 1 Side Bar.SLDPRT</FileName>
+      <SHA1>F88CFB631AD68C6314E4E9D8F4DE49F71FE02F44</SHA1>
+      <FileSize>9937631</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5695278+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\36inch by 26 inch Elevator\02-C-000 Elevator Stage 2.SLDASM</FileName>
+      <SHA1>C53D90791E60A0C01DB9DE3049955C03BA94E38A</SHA1>
+      <FileSize>2930542</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5735173+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\36inch by 26 inch Elevator\02-C-001 Elevator Stage 2 Top &amp; Bottom Bar.SLDPRT</FileName>
+      <SHA1>3D3886852120074D884F3DD4D8A6798C387DCC31</SHA1>
+      <FileSize>6962593</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5785040+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\36inch by 26 inch Elevator\02-C-002 Elevator Stage 2 Side Bar.SLDPRT</FileName>
+      <SHA1>FC4131D3C64EB41E22FAFEADBA5F928D1847615A</SHA1>
+      <FileSize>9767950</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5844879+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\36inch by 26 inch Elevator\am-4875 2x1 Compact Elevator Corner Bearing Kit (1).SLDPRT</FileName>
+      <SHA1>AE65C576ADDD43B9527DA06808320CF3EF975C1D</SHA1>
+      <FileSize>3213388</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6004453+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\36inch by 26 inch Elevator\console.log</FileName>
+      <SHA1>5DB801DAD39DFF70D87609895F24CE112F3A4DC2</SHA1>
+      <FileSize>11120</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6024669+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\36inch by 26 inch Elevator\Copy of 1in Bracket - 90deg - Sharp Interior (REV-21-2295).SLDPRT</FileName>
+      <SHA1>126CCE050C10309C1D1623E770B5943E91B67A88</SHA1>
+      <FileSize>74649</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5865118+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\36inch by 26 inch Elevator\Copy of MAXTube - 2x1 (REV-21-2162).SLDPRT</FileName>
+      <SHA1>F196CBEC721E2FC414BE5BA9AF3B74750BC3A96A</SHA1>
+      <FileSize>10384275</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5934642+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\36inch by 26 inch Elevator\New Elevator.SLDASM</FileName>
+      <SHA1>9ECDBAC05DAB593E9D5D40449F7DBF019FD30F71</SHA1>
+      <FileSize>3870463</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.5974531+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\Back Vertical.SLDPRT</FileName>
+      <SHA1>E7A117C825D0802D75330C11B5E8A0D178F8D664</SHA1>
+      <FileSize>77760</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6044642+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\Belly Panel.SLDPRT</FileName>
+      <SHA1>E03E5A28E037C9D221F2613B0CCD8404A292EDC6</SHA1>
+      <FileSize>65821</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6064664+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\brace.SLDPRT</FileName>
+      <SHA1>3DB4F42D177C14ED5F55C110B80305B8EF23CDC7</SHA1>
+      <FileSize>54871</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6423624+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\Bumpers Fake.SLDPRT</FileName>
+      <SHA1>F7572CEB124C921B924C04E732BE91BDFB130E84</SHA1>
+      <FileSize>198215</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6084539+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\chasis corner bracket.SLDPRT</FileName>
+      <SHA1>7EE0C0FE264EE3759EE4891041620DCA30842D97</SHA1>
+      <FileSize>105521</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6443568+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\console.log</FileName>
+      <SHA1>6BA09529176C50FF9800488F6BDC90B4C4FE0B65</SHA1>
+      <FileSize>10842</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6463593+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\Diagonal 2.SLDPRT</FileName>
+      <SHA1>9F8DBB8B28FAA4D39C5B18E023A2F1CC6D4912A2</SHA1>
+      <FileSize>55263</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6104516+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\Diagonal 3.SLDPRT</FileName>
+      <SHA1>14A0C828A8E1E90ACD3F40C4F3E613C1FB79C704</SHA1>
+      <FileSize>55251</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6134387+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\Diagonal.SLDPRT</FileName>
+      <SHA1>D9505335BFBEE93BE76407D93AB61F536C4F820F</SHA1>
+      <FileSize>55386</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6154052+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\Fake Claw.SLDPRT</FileName>
+      <SHA1>A3CBE23D12AE244B0B3465E75B5311EC9AB99191</SHA1>
+      <FileSize>76741</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6173999+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\Field.SLDPRT</FileName>
+      <SHA1>00E37EAECEAA647D0668C51C5BF09C9CE1BB622C</SHA1>
+      <FileSize>247264</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6194234+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\Front Vertical.SLDPRT</FileName>
+      <SHA1>AB2DB734C7961F6E53D8E8104817DC3FAE8AB169</SHA1>
+      <FileSize>75795</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6214216+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\Horizontal.SLDPRT</FileName>
+      <SHA1>286D38462D78F12AAA2A638A1C6774A49143BDC1</SHA1>
+      <FileSize>65166</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6244112+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\Left Rail.SLDPRT</FileName>
+      <SHA1>6181BE6BCA718347045CEF84857470D2D1757D38</SHA1>
+      <FileSize>271568</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6263782+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Size Concept\Rush First Rough Draft for Size.SLDASM</FileName>
+      <SHA1>B5308315EC603337BFE956E60610089136E99C2A</SHA1>
+      <FileSize>31006615</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-01-18T02:10:41.6403685+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Ball Joint Rack.SLDPRT</FileName>
+      <SHA1>A9101EFCFF555724D16FAE9EC6AD530358874BFF</SHA1>
+      <FileSize>229296</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.1071131+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Ball Joint Rack.STL</FileName>
+      <SHA1>874420892A579495242B1738C2CF7DE836C05536</SHA1>
+      <FileSize>226984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.1091085+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Rush\Pulley.SLDPRT</FileName>
+      <SHA1>B61A93D19735B65C1B85355984B1EE997C0ACF10</SHA1>
+      <FileSize>124793</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.1111355+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\captive pulley spacer.SLDPRT</FileName>
+      <SHA1>99A41C915DB454929FFD9C274BCB044E0878C7D5</SHA1>
+      <FileSize>86763</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.1420525+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\captive pulley spacer.STL</FileName>
+      <SHA1>9771A1149E46026EEF473401C3D0AA0C4569E9B2</SHA1>
+      <FileSize>29684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.1440471+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Churro Flex Wheel Insert.SLDPRT</FileName>
+      <SHA1>E4579DD2645E5F369601DF2B1D08097611F4F015</SHA1>
+      <FileSize>76309</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1608734+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Churro Flex Wheel Insert.STL</FileName>
+      <SHA1>61822B3EE5C4661BAC34CD9BD5696E80EDDF546C</SHA1>
+      <FileSize>12784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-11T04:15:57.1728348+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Jank Realsense Mount.SLDPRT</FileName>
+      <SHA1>3356AE59C8B358BA57B1304F1BFEE4ACB1090E5F</SHA1>
+      <FileSize>119514</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9762615+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Jank Realsense Mount.STL</FileName>
+      <SHA1>1B92CD8C1AA2E5A24BCC429CE8DE09B9B119B335</SHA1>
+      <FileSize>28084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9790370+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Pivot Claw.zip</FileName>
+      <SHA1>C2EE3161D91F2413C158BAFCD69E64C3D8D80F2C</SHA1>
+      <FileSize>34229769</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:21.9980720+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Spiral Spool.SLDPRT</FileName>
+      <SHA1>3DA35294F6670FB1AD757DCB8CC06A4CC03849A4</SHA1>
+      <FileSize>335364</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.1370661+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>99 Prototyping\Spiral Spool.STL</FileName>
+      <SHA1>4EA506893E69D0CBD5AF81C8F642C9D6BEEFA9F9</SHA1>
+      <FileSize>1608584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.1400579+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Solidworks Data\2584-Drawing Format.slddrt</FileName>
+      <SHA1>A37E661E1A2B0B6A05A899E4529407EA2C0904BD</SHA1>
+      <FileSize>53678</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.1750435+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>00 Main.SLDASM</FileName>
+      <SHA1>EF6EE15533B9AA971AB7CF4CFDD4A674219A1706</SHA1>
+      <FileSize>55296945</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-03-03T07:11:13.5963897+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Design Table.xlsm</FileName>
+      <SHA1>401267C9FA9A5186CAF820CC3533A1952529F4C4</SHA1>
+      <FileSize>81522</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2023-02-10T03:50:22.1720509+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>

@@ -1,0 +1,2 @@
+"chassis-width" = 26in
+"chassis-length" = 30in
